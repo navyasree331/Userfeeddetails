@@ -60,7 +60,7 @@ function Header() {
           <CardBottom>
             <CardLike onClick={() => incNum(1)}>Like</CardLike>
             <CardComment onClick={() => incNum(1)}>Comment</CardComment>
-            <CardShare onClick={() => incNum(1)}>Sahre</CardShare>
+            <CardShare onClick={() => incNum(1)}>Share</CardShare>
           </CardBottom>
         </CardInteraction>
       </Card>
